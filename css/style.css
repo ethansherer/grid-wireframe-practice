@@ -32,6 +32,7 @@ article > * {
 .column {
     background-color: rgb(255, 0, 85);
     font-size: .75rem;
+    text-align: center;
 }
 
 .aside2 {
